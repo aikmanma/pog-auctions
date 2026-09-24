@@ -1,0 +1,65 @@
+Privacy Policy
+
+1. Introduction
+This Privacy Policy explains how this Discord bot (“the Bot”) collects, uses, and protects information. By using the Bot, you agree to the practices described here.
+
+2. Information the Bot Collects
+The Bot may collect and store limited information necessary for its operation, including:
+
+User IDs
+
+Server IDs
+
+Channel IDs
+
+Message content, but only when required for command execution
+
+Server configuration data (settings, preferences, permissions)
+
+Interaction logs (commands used, timestamps)
+
+The Bot does not intentionally collect sensitive personal information such as real names, emails, or payment data.
+
+3. How Information Is Used
+Collected data is used solely for:
+
+Executing bot commands
+
+Maintaining server-specific settings
+
+Improving functionality and performance
+
+Preventing abuse or misuse
+
+Debugging errors or technical issues
+
+The Bot does not sell, rent, or share data with third parties.
+
+4. Data Storage & Security
+Data may be stored in a secure database or server environment. Reasonable measures are taken to protect stored information from unauthorized access, loss, or misuse. However, no system is completely secure, and the Bot owner cannot guarantee absolute protection.
+
+5. Data Retention
+Data is retained only as long as necessary for the Bot’s functionality. Logs and temporary data may be periodically cleared. Server administrators may request deletion of stored data at any time.
+
+6. Third‑Party Services
+If the Bot integrates with external APIs or services, those services may have their own privacy policies. Users are responsible for reviewing third‑party terms when applicable.
+
+7. Children’s Privacy
+The Bot follows Discord’s minimum age requirements. It does not knowingly collect information from users under the age permitted by Discord’s Terms of Service.
+
+8. Your Rights
+Server owners or users may request:
+
+Removal of stored data
+
+Clarification on what data is stored
+
+Termination of the Bot’s access to their server
+
+Requests can be made by contacting the Bot owner or administrators.
+
+9. Changes to This Policy
+This Privacy Policy may be updated at any time. Continued use of the Bot after changes are posted indicates acceptance of the updated policy.
+
+10. Contact
+For questions, concerns, or data requests, contact the Bot owner or server administrators.
