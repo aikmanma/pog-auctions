@@ -1,0 +1,58 @@
+Terms Of Service 
+
+1. Acceptance of Terms
+By using this Discord bot (“the Bot”), you agree to these Terms of Service. If you do not agree, you must stop using the Bot immediately.
+
+2. Eligibility
+You must comply with Discord’s Terms of Service and Community Guidelines. By using the Bot, you confirm that you meet Discord’s minimum age requirements and are legally permitted to use the platform.
+
+3. Use of the Bot
+You agree not to use the Bot for:
+
+Illegal activities
+
+Harassment, abuse, or harmful behavior
+
+Spamming or disruptive actions
+
+Attempting to exploit, modify, or interfere with the Bot’s functionality
+
+The Bot’s features may change at any time without notice.
+
+4. Data Collection & Privacy
+The Bot may collect and store limited data necessary for its functionality, such as:
+
+User IDs
+
+Server IDs
+
+Message content only when required for command execution
+
+Configuration settings
+
+The Bot does not sell or share data with third parties. Data is used solely to operate and improve the Bot.
+
+You may request deletion of stored data by contacting the Bot owner or administrators.
+
+5. Availability
+The Bot is provided “as is” and may be unavailable due to maintenance, outages, or technical issues. No uptime guarantees are provided.
+
+6. Limitation of Liability
+The Bot owner is not responsible for:
+
+Damages resulting from use or inability to use the Bot
+
+Loss of data
+
+Actions taken by users or server administrators
+
+Use the Bot at your own risk.
+
+7. Termination
+The Bot owner may restrict or terminate access to the Bot at any time, for any reason, without notice. You may stop using the Bot at any time.
+
+8. Changes to Terms
+These Terms may be updated periodically. Continued use of the Bot after changes are posted constitutes acceptance of the updated Terms.
+
+9. Contact
+For questions, concerns, or data requests, contact the Bot owner or server administrators.
